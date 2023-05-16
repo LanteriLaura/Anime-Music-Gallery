@@ -1,0 +1,170 @@
+body { 
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    margin: 0px;
+   }
+
+header {
+    background-color: rgb(110, 76, 234) ;
+        margin: 0%;
+        padding: 5px;
+        border-radius: 0px;
+    }   
+
+#logo {
+    width: 220px;
+    padding: 2%;
+ }
+
+h1 {
+   font-family: "Comic Sans MS", cursive, sans-serif;
+   font-size: 35px;
+   letter-spacing: 2.2px;
+   word-spacing: 2.8px;
+   color: #000000;
+   font-weight: 700;
+   font-variant: small-caps;
+   text-transform: uppercase;
+   text-align: center;
+   padding: 0%;
+   margin: 3%;
+}
+
+h2 {
+   font-family: "Comic Sans MS", cursive, sans-serif;
+   font-size: 35px;
+   letter-spacing: 1px;
+   word-spacing: 2px;
+   color: #000000;
+   font-weight: 40;
+   font-variant: small-caps;
+   text-align: left;
+   padding: 1%;
+   background-color: #fff787;
+}
+
+main {
+   background-color: rgb(255, 255, 255);
+   margin: 0%;
+   padding: 0%;
+   text-align: center;
+   height: inherit;
+}  
+
+nav ul li {
+    display: inline-block;
+    text-align: center;
+    padding: 14px;
+    margin: 2px;
+    background-color: rgb(110, 76, 234);
+ }
+
+ a{
+    text-decoration: none;
+    color: #ffee00;
+    background-color:rgb(110, 76, 234);
+    border-color: rgb(110, 76, 234);
+ }
+ 
+ a:visited {
+    color: rgb(255, 165, 92);
+ }
+
+ a:hover {
+    color: rgb(182, 35, 9);
+ }
+
+
+
+p {
+       font-size: 33px;
+       font-style: normal;
+       font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+       text-align: center;
+       margin: 2%;
+       color: rgb(0, 0, 0);
+    }
+
+    #homebutton {
+   text-decoration: none;
+   padding: 0px;
+   border-radius: 0px;
+   font-family: Comic Sans MS, Comic Sans ;
+   font-size: 15px;  
+   color: #ffee00;
+   background-color:rgb(110, 76, 234); 
+   border-color: rgb(110, 76, 234); 
+}
+
+
+#footer {
+    text-align: center;
+    background-color: #ffee00;
+    font-size: larger;
+    margin-left: 0%;
+    margin-right: 0%;
+ }
+
+ #nome {
+    background-color: #fff787;
+    color: rgb(110, 76, 234);
+    margin: 3%;
+    padding:0%;
+    margin-left: 0%;
+    margin-right: 0%;
+ } 
+
+ #nome:hover {
+    color: rgb(182, 35, 9);
+ }
+
+ #cerca {
+   background-color: #fff787;
+ }
+
+ table.blueTable {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    background-color: #FFF787;
+    width: 100%;
+    text-align: left;
+    border-collapse: collapse;
+  }
+  table.blueTable td, table.blueTable th {
+    border: 1px solid #AAAAAA;
+    padding: 3px 2px;
+  }
+  table.blueTable tbody td {
+    font-size: 20px;
+  }
+  table.blueTable tr:nth-child(even) {
+    background: #FFF787;
+  }
+  table.blueTable td:nth-child(even) {
+    background: #A59CEE;
+  }
+  table.blueTable thead {
+    background: #FFFFFF;
+  }
+  table.blueTable thead th {
+    font-size: 22px;
+    font-weight: bold;
+    color: #000000;
+  }
+  table.blueTable tfoot td {
+    font-size: 14px;
+  }
+  table.blueTable tfoot .links {
+    text-align: right;
+  }
+  table.blueTable tfoot .links a{
+    display: inline-block;
+    background: #1C6EA4;
+    color: #FFFFFF;
+    padding: 2px 8px;
+    border-radius: 5px;
+  }
+
+  #songlink {
+    color: #000000;
+    background-color: rgb(157, 154, 235);
+  }

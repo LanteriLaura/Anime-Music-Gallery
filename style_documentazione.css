@@ -1,0 +1,126 @@
+body { 
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    margin: 0px;
+   }
+
+header {
+    background-color: rgb(110, 76, 234) ;
+        margin: 0%;
+        padding: 5px;
+        border-radius: 0px;
+    }   
+
+#logo {
+    width: 220px;
+    padding: 2%;
+ }
+
+h1 {
+   font-family: "Comic Sans MS", cursive, sans-serif;
+   font-size: 35px;
+   letter-spacing: 2.2px;
+   word-spacing: 2.8px;
+   color: #000000;
+   font-weight: 700;
+   font-variant: small-caps;
+   text-transform: uppercase;
+   text-align: center;
+   padding: 0%;
+   margin: 3%;
+}
+
+h2 {
+   font-family: "Comic Sans MS", cursive, sans-serif;
+   font-size: 35px;
+   letter-spacing: 1px;
+   word-spacing: 2px;
+   color: #000000;
+   font-weight: 40;
+   font-variant: small-caps;
+   text-align: left;
+   padding: 1%;
+   background-color: #fff787;
+}
+
+main {
+   background-color: rgb(255, 255, 255);
+   margin: 0%;
+   padding: 0%;
+   text-align: center;
+   height: inherit;
+}
+
+nav ul li {
+    display: inline-block;
+    text-align: center;
+    padding: 14px;
+    margin: 2px;
+    background-color: rgb(110, 76, 234);
+ }
+
+ a{
+    text-decoration: none;
+    color: #ffee00;
+    background-color:rgb(110, 76, 234);
+    border-color: rgb(110, 76, 234);
+ }
+
+@font-face {
+   font-family: 'josefin sans'; src: url(Josefin_Sans);
+}
+
+p {
+       font-size: larger;
+       font-style: normal;
+       text-align: center;
+       margin: 2%;
+    }
+
+#homebutton {
+   text-decoration: none;
+   padding: 0px;
+   border-radius: 0px;
+   font-family: Comic Sans MS, Comic Sans ;
+   font-size: 15px;  
+   color: #ffee00;
+   background-color:rgb(110, 76, 234); 
+   border-color: rgb(110, 76, 234); 
+}
+
+
+#footer {
+    text-align: center;
+    background-color: #ffee00;
+ }
+
+a:visited {
+   color: rgb(255, 165, 92);
+}
+
+a:hover {
+   color: rgb(182, 35, 9);
+}
+
+#testo { 
+   text-align: left;
+   font-size: 27px;
+}
+
+#foto {
+   width: 42%;
+   height: 42%;
+   text-align: center;
+   margin-top:80px;
+}
+
+#albero {
+   width: 60%;
+   height: 60%;
+}
+
+#didascalie {
+   text-align: center;
+   font-size: 25px;
+   margin-bottom: 60px
+}

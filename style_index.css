@@ -1,0 +1,113 @@
+body { 
+     background-color: rgb(255, 255, 255);
+     text-align: center;
+     margin: 0px;
+    }
+
+h1 {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 23px;
+    letter-spacing: 2.2px;
+    word-spacing: 2.8px;
+    color: #000000;
+    font-weight: 700;
+    font-variant: small-caps;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 0%;
+    margin: 3%;
+}
+
+
+main {
+    background-color: rgb(255, 255, 255);
+    margin: 0%;
+    padding: 0%;
+    text-align: center;
+    height: inherit;
+}
+
+nav ul li {
+    display: inline-block;
+    text-align: center;
+    padding: 14px;
+    margin: 2px;
+}
+
+#logo {
+    width: 220px;
+    padding: 2%;
+}
+
+header {
+    background-color: rgb(110, 76, 234) ;
+        margin: 0%;
+        padding: 5px;
+        border-radius: 0px;
+    }
+        
+nav   {
+        display: inline-block;
+    }
+
+ #cerca {
+        text-align: center;
+        display: inline-block;
+    }
+
+
+ p {
+        font-size: larger;
+        font-style: normal;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     }
+
+
+footer {
+    text-align: center;
+    background-color: #ffee00;
+}
+
+#animebutton {
+text-decoration: none;
+padding: 33px;
+border-radius: 16px;
+font-family: Comic Sans MS, Comic Sans;
+font-size: 30px ;
+cursor: pointer;
+color: #000000;
+}
+
+#homebutton {
+    text-decoration: none;
+    padding: 0px;
+    border-radius: 0px;
+    font-family: Comic Sans MS, Comic Sans ;
+    font-size: 15px;  
+    color: #ffee00;
+    background-color:rgb(110, 76, 234); 
+    border-color: rgb(110, 76, 234); 
+}
+
+a{
+    text-decoration: none;
+    color: #ffee00;
+}
+
+a:visited {
+    color: rgb(255, 165, 92);
+ }
+
+ a:hover {
+    color: rgb(182, 35, 9);
+ }
+
+ #animebutton:visited {
+    color: aquamarine;
+
+ }
+
+ #animebutton:hover {
+    color: brown;
+
+ }
