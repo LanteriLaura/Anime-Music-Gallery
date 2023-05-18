@@ -5,7 +5,7 @@ body {
     }
 
 h1 {
-    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 23px;
     letter-spacing: 2.2px;
     word-spacing: 2.8px;
@@ -69,24 +69,23 @@ footer {
 }
 
 #animebutton {
-text-decoration: none;
+text-decoration:#981bc9 !important;
 padding: 33px;
 border-radius: 16px;
-font-family: Comic Sans MS, Comic Sans;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 font-size: 30px ;
-cursor: pointer;
-color: #000000;
+color: #981bc9;
 }
 
 #homebutton {
     text-decoration: none;
     padding: 0px;
     border-radius: 0px;
-    font-family: Comic Sans MS, Comic Sans ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 15px;  
     color: #ffee00;
     background-color:rgb(110, 76, 234); 
-    border-color: rgb(110, 76, 234); 
+    border-color: rgb(110, 76, 234);
 }
 
 a{
@@ -99,15 +98,14 @@ a:visited {
  }
 
  a:hover {
-    color: rgb(182, 35, 9);
+    color: rgb(229, 108, 34);
  }
 
  #animebutton:visited {
-    color: aquamarine;
-
+    color: rgb(166, 32, 228);
  }
 
  #animebutton:hover {
-    color: brown;
-
+    color: rgb(83, 21, 101);
  }
+

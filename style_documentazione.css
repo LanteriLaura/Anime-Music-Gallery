@@ -17,7 +17,7 @@ header {
  }
 
 h1 {
-   font-family: "Comic Sans MS", cursive, sans-serif;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
    font-size: 35px;
    letter-spacing: 2.2px;
    word-spacing: 2.8px;
@@ -31,7 +31,7 @@ h1 {
 }
 
 h2 {
-   font-family: "Comic Sans MS", cursive, sans-serif;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
    font-size: 35px;
    letter-spacing: 1px;
    word-spacing: 2px;
@@ -81,7 +81,7 @@ p {
    text-decoration: none;
    padding: 0px;
    border-radius: 0px;
-   font-family: Comic Sans MS, Comic Sans ;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
    font-size: 15px;  
    color: #ffee00;
    background-color:rgb(110, 76, 234); 
@@ -99,7 +99,7 @@ a:visited {
 }
 
 a:hover {
-   color: rgb(182, 35, 9);
+   color:rgb(229, 108, 34);
 }
 
 #testo { 
@@ -124,3 +124,4 @@ a:hover {
    font-size: 25px;
    margin-bottom: 60px
 }
+
